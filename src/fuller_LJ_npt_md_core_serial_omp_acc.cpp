@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: BSD-3-Clause
+// Copyright (c) 2025, Takeshi Nishikawa
 /*===========================================================================
   fuller_LJ_npt_md_core_serial_omp_acc.cpp
   C60 Fullerene Crystal NPT Molecular Dynamics Simulation

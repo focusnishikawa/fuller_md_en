@@ -328,3 +328,7 @@ Specify as `--fullerene=C84:<number>` or `--fullerene=C84:<number>:<symmetry>`.
 - Linux (GCC 12+) — Serial/OpenMP
 - Linux (NVIDIA HPC SDK + GPU) — Serial/OpenMP/OpenACC
 - Tested on: FOCUS supercomputer (GCC 12.2.0 + NVIDIA HPC SDK 24.5)
+
+## License
+
+This project is licensed under the [BSD 3-Clause License](LICENSE).

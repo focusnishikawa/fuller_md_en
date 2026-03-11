@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: BSD-3-Clause
+// Copyright (c) 2025, Takeshi Nishikawa
 /*===========================================================================
   fuller_airebo_npt_md_serial_omp_acc.cpp — Fullerene Crystal NPT-MD
   (AIREBO, Serial / OpenMP / OpenACC GPU)

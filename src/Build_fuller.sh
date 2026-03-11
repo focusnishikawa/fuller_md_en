@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025, Takeshi Nishikawa
 #===========================================================================
 #  Build_fuller.sh — Fullerene crystal NPT-MD build script
 #
