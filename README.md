@@ -4,17 +4,6 @@ NPT molecular dynamics simulation codes for C60/C70/C72/C74/C76/C84 fullerene cr
 Three force field models (LJ rigid-body, molecular mechanics, AIREBO) with
 Serial / OpenMP / OpenACC GPU modes selectable at compile time.
 
-## Other Versions
-
-| Repository | Language | Description |
-|-----------|----------|-------------|
-| [fuller_md](https://github.com/focusnishikawa/fuller_md) | C++ (Japanese) | C++ version, Japanese |
-| [fuller_md_en](https://github.com/focusnishikawa/fuller_md_en) | C++ (English) | This repository |
-| [fuller_md_Julia](https://github.com/focusnishikawa/fuller_md_Julia) | Julia (English) | Julia/JACC.jl version, English |
-| [fuller_md_Julia_ja](https://github.com/focusnishikawa/fuller_md_Julia_ja) | Julia (Japanese) | Julia/JACC.jl version, Japanese |
-| [fuller_md_fortran](https://github.com/focusnishikawa/fuller_md_fortran) | Fortran 95 (Japanese) | Fortran version, Japanese |
-| [fuller_md_fortran_en](https://github.com/focusnishikawa/fuller_md_fortran_en) | Fortran 95 (English) | Fortran version, English |
-
 ## Directory Structure
 
 ```
@@ -334,3 +323,14 @@ Specify as `--fullerene=C84:<number>` or `--fullerene=C84:<number>:<symmetry>`.
 ## License
 
 This project is licensed under the [BSD 3-Clause License](LICENSE).
+
+## Other Languages & Versions
+
+| Repository | Language | Description |
+|-----------|----------|-------------|
+| [fuller_md](https://github.com/focusnishikawa/fuller_md) | C++ (Japanese) | C++ Japanese |
+| [fuller_md_en](https://github.com/focusnishikawa/fuller_md_en) | C++ (English) | This repository |
+| [fuller_md_Julia](https://github.com/focusnishikawa/fuller_md_Julia) | Julia (English) | Julia English |
+| [fuller_md_Julia_ja](https://github.com/focusnishikawa/fuller_md_Julia_ja) | Julia (Japanese) | Julia Japanese |
+| [fuller_md_fortran](https://github.com/focusnishikawa/fuller_md_fortran) | Fortran 95 (Japanese) | Fortran Japanese |
+| [fuller_md_fortran_en](https://github.com/focusnishikawa/fuller_md_fortran_en) | Fortran 95 (English) | Fortran English |
